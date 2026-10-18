@@ -1,0 +1,6 @@
+**/__pycache__/
+./tmp
+.DS_Store
+
+checkpoints/
+repro-pMF/
